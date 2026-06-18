@@ -1,4 +1,4 @@
 # Core-java-challanges-code
-this is m y first Git Respository.
+this is my first Git Respository.
 <br>
-Author - Dev Chaudhary( haryana aale)
+Author - Dev Chaudhary
